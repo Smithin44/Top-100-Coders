@@ -8,13 +8,11 @@
 ### Portfolio Highlights
 
 
-#### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
 
 #### History of Community Engagement:
 
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
+-  Active participant in Gtec Mulearn 
 
 #### Highly Visible Technical Content:
 
