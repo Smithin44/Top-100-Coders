@@ -1,8 +1,8 @@
-# Full Name 
+# Smithin Thankachan 
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> As a software engineer, I bring a diverse skill set to the table, including expertise in web design and programming languages such as C, C++, Java, and Python. With a passion for innovation and problem-solving, I thrive on tackling complex challenges and delivering robust solutions. My experience spans from crafting elegant user interfaces to developing efficient backend systems. I am dedicated to continuous learning, staying updated on the latest technologies and methodologies in the ever-evolving landscape of software engineering. Committed to excellence and collaboration, I aim to contribute meaningfully to projects and teams, driving towards success in every endeavor
 
 
 ### Portfolio Highlights
