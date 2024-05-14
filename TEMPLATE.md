@@ -16,19 +16,17 @@
 
 #### Highly Visible Technical Content:
 
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+- Active posts in [Linkedin](https://www.linkedin.com/in/smithin-thankachan-230168301)
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+- Visual studio is used for making softwares
 
-#### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
 #### Leadership and Influence:
 
-- explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+- Led a  team of 4 members in final year project that is an automated code conversion desktop application 
 
 #### Networking:
 
@@ -36,15 +34,15 @@
 
 #### As a Top 100 Member:
 
-- outline why you are applying for this Top 100 and explain how it relates to your current profession. Specify how being in the Top 100 will benefit your career.
+- Applying for Top 100 to collaborate with like-minded individuals and contribute to Kerala's startup ecosystem..
 
 #### Career Plan:
 
-- outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- To outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better. To Share my thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+- • Kerala has the potential to excel in the technology startup ecosystem by nurturing local talent, fostering innovation, and creating a supportive environment for startups and to make youngsters to grow there career.
 
 
 > In your portfolio, include the following details:
